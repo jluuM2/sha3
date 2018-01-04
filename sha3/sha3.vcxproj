@@ -151,6 +151,9 @@
   <ItemGroup>
     <ClInclude Include="sha3.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="Licence.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
