@@ -1,0 +1,5 @@
+Adapted from Aleksey Kravchenko
+
+http://rhash.anz.ru/
+
+https://github.com/rhash
